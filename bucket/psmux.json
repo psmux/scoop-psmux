@@ -6,15 +6,15 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/psmux/psmux/releases/download/v3.3.0/psmux-v3.3.0-windows-x64.zip",
-            "hash": "fdc7a3f0da419fa037b2cc6ff5990d16ae091da707e528e726cbd6bf1ebd79b3"
+            "hash": "b0bfac69570c9cf42a048d53d2c38ca84dc82ca9e1dd95e8600db2a8e89fa6c4"
         },
         "32bit": {
             "url": "https://github.com/psmux/psmux/releases/download/v3.3.0/psmux-v3.3.0-windows-x86.zip",
-            "hash": "e5acab7bf25c09748711f088095cf98c4add011320ff0e0336e1fbd9021390f6"
+            "hash": "ff92d8c8c27830265d3e4764b91e9f39edd53e4d12bcd3607518d0593818344a"
         },
         "arm64": {
             "url": "https://github.com/psmux/psmux/releases/download/v3.3.0/psmux-v3.3.0-windows-arm64.zip",
-            "hash": "39b0ef3f9488a9d3de745853075269518ccd8cfbf2e44fbaa419df2cb7dac681"
+            "hash": "5f84faf4e0f786a095ac9b3ac233e83b382b513b26d6af98b8730d833d4319ee"
         }
     },
     "bin": [
